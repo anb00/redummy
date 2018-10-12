@@ -1,2 +1,7 @@
 # redummy
-java index and dependencies
+
+TODO
+
+## shortcuts
+
+- control + shift + o: Reimport
